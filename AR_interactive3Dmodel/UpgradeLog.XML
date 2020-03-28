@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="simpleTest">
+</Property><Property Name="Solution File" Value="C:\Users\MiMi\Desktop\fy project\simpleTest ori\simpleTest.sln">
+</Property><Property Name="User Options File" Value="C:\Users\MiMi\Desktop\fy project\simpleTest ori\simpleTest.suo">
+</Property><Property Name="Date" Value="2010年8月2日">
+</Property><Property Name="Time" Value="17:07">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="simpleTest.sln" Description="File successfully backed up as C:\Users\MiMi\Desktop\fy project\simpleTest ori\simpleTest.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="simpleTest.suo" Description="File successfully backed up as C:\Users\MiMi\Desktop\fy project\simpleTest ori\simpleTest.suo.old">
+</Event><Event ErrorLevel="0" Project="simpleTest" Source="simpleTest.vcproj" Description="Converting project file 'C:\Users\MiMi\Desktop\fy project\simpleTest ori\simpleTest.vcproj'.">
+</Event><Event ErrorLevel="1" Project="simpleTest" Source="simpleTest.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="simpleTest" Source="simpleTest.vcproj" Description="Done converting to new project file 'C:\Users\MiMi\Desktop\fy project\simpleTest ori\simpleTest.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="simpleTest" Source="simpleTest.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="simpleTest.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="simpleTest.sln" Description="Converted">
+</Event></UpgradeLog>

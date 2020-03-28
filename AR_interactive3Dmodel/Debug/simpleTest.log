@@ -1,0 +1,14 @@
+﻿     Creating library C:\Users\MiMi\Desktop\pp\FY_PROJECT\Debug\simpleTest.lib and object C:\Users\MiMi\Desktop\pp\FY_PROJECT\Debug\simpleTest.exp
+fyp_20120510.obj : warning LNK4217: locally defined symbol _arVideoCapStart imported in function _main
+fyp_20120510.obj : warning LNK4217: locally defined symbol _arVideoCapNext imported in function "void __cdecl mainLoop(void)" (?mainLoop@@YAXXZ)
+fyp_20120510.obj : warning LNK4217: locally defined symbol _arVideoGetImage imported in function "void __cdecl mainLoop(void)" (?mainLoop@@YAXXZ)
+fyp_20120510.obj : warning LNK4217: locally defined symbol _arVideoInqSize imported in function "void __cdecl init(void)" (?init@@YAXXZ)
+fyp_20120510.obj : warning LNK4217: locally defined symbol _arVideoOpen imported in function "void __cdecl init(void)" (?init@@YAXXZ)
+fyp_20120510.obj : warning LNK4217: locally defined symbol _arVideoClose imported in function "void __cdecl cleanup(void)" (?cleanup@@YAXXZ)
+fyp_20120510.obj : warning LNK4217: locally defined symbol _arVideoCapStop imported in function "void __cdecl cleanup(void)" (?cleanup@@YAXXZ)
+paramDecomp.obj : error LNK2001: unresolved external symbol _arMatrixSelfInv
+arGetCode.obj : error LNK2019: unresolved external symbol _arMatrixSelfInv referenced in function "void __cdecl get_cpara(double (* const)[2],double (* const)[2],double (* const)[3])" (?get_cpara@@YAXQAY01N0QAY02N@Z)
+arGetTransMat.obj : error LNK2001: unresolved external symbol _arMatrixSelfInv
+arGetTransMat3.obj : error LNK2001: unresolved external symbol _arMatrixSelfInv
+arUtil.obj : error LNK2001: unresolved external symbol _arMatrixSelfInv
+C:\Users\MiMi\Desktop\pp\FY_PROJECT\Debug\simpleTest.exe : fatal error LNK1120: 1 unresolved externals

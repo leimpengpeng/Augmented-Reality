@@ -1,0 +1,475 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl Interior1
+Ka  0.80 0.70 0.60
+Kd  0.80 0.70 0.60
+Ks  0.90 0.90 0.90
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl chrome1
+Ka  0.60 0.60 0.60
+Kd  0.60 0.60 0.60
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl metal2
+Ka  0.70 0.70 0.70
+Kd  0.70 0.70 0.70
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl lightRubber1
+Ka  0.50 0.50 0.50
+Kd  0.50 0.50 0.50
+Ks  0.90 0.90 0.90
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl brushed_metal_02
+Ka  0.50 0.50 0.50
+Kd  0.50 0.50 0.50
+Ks  0.90 0.90 0.90
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl darkRubber1
+Ka  0.20 0.20 0.20
+Kd  0.20 0.20 0.20
+Ks  0.10 0.10 0.10
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl simple_metal_0_70
+Ka  0.30 0.30 0.30
+Kd  0.30 0.30 0.30
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl carpaint
+Ka  0.20 0.50 0.10
+Kd  0.20 0.50 0.10
+Ks  0.50 0.50 0.50
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl Glass_Car
+Ka  0.90 0.90 0.90
+Kd  0.90 0.90 0.90
+Ks  1.00 1.00 1.00
+d  0.20
+Ns  0.00
+illum 2
+#
+# Multi/Sub Foglight_chrome01 (2) to come 
+#
+newmtl chrome2
+Ka  0.60 0.60 0.60
+Kd  0.60 0.60 0.60
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl Headlight
+Ka  0.00 0.00 0.00
+Kd  0.00 0.00 0.00
+Ks  0.00 0.00 0.00
+d  1.00
+Ns  0.00
+illum 2
+#
+# Multi/Sub Foglight_chrome01 done 
+#
+# Multi/Sub Foglight_chrome (2) to come 
+#
+newmtl chrome1
+Ka  0.60 0.60 0.60
+Kd  0.60 0.60 0.60
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl Headlight
+Ka  0.00 0.00 0.00
+Kd  0.00 0.00 0.00
+Ks  0.00 0.00 0.00
+d  1.00
+Ns  0.00
+illum 2
+#
+# Multi/Sub Foglight_chrome done 
+#
+newmtl metal
+Ka  0.30 0.30 0.30
+Kd  0.30 0.30 0.30
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl Mirror2
+Ka  0.50 0.50 0.50
+Kd  0.50 0.50 0.50
+Ks  0.90 0.90 0.90
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl black_black1
+Ka  0.10 0.10 0.10
+Kd  0.10 0.10 0.10
+Ks  0.10 0.10 0.10
+d  1.00
+Ns  0.00
+illum 2
+#
+# Multi/Sub Taillight_glass (2) to come 
+#
+newmtl Glass_Car_Red
+Ka  0.00 0.00 0.00
+Kd  0.00 0.00 0.00
+Ks  1.00 1.00 1.00
+d  0.20
+Ns  0.00
+illum 2
+#
+newmtl Glass_Car
+Ka  0.90 0.90 0.90
+Kd  0.90 0.90 0.90
+Ks  1.00 1.00 1.00
+d  0.20
+Ns  0.00
+illum 2
+#
+# Multi/Sub Taillight_glass done 
+#
+newmtl Windows1
+Ka  0.00 0.00 0.00
+Kd  0.00 0.00 0.00
+Ks  1.00 1.00 1.00
+d  0.10
+Ns  0.00
+illum 2
+#
+newmtl default__2
+Ka  0.50 0.50 0.50
+Kd  0.50 0.50 0.50
+Ks  0.70 0.70 0.70
+d  1.00
+Ns  0.00
+illum 2
+#
+# Multi/Sub Taillight_glass01 (2) to come 
+#
+newmtl Glass_Car_Red
+Ka  0.00 0.00 0.00
+Kd  0.00 0.00 0.00
+Ks  1.00 1.00 1.00
+d  0.20
+Ns  0.00
+illum 2
+#
+newmtl Glass_Car
+Ka  0.90 0.90 0.90
+Kd  0.90 0.90 0.90
+Ks  1.00 1.00 1.00
+d  0.20
+Ns  0.00
+illum 2
+#
+# Multi/Sub Taillight_glass01 done 
+#
+# Multi/Sub Headlight_main_lamp02 (4) to come 
+#
+newmtl chrome2
+Ka  0.60 0.60 0.60
+Kd  0.60 0.60 0.60
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl chrome3
+Ka  0.60 0.60 0.60
+Kd  0.60 0.60 0.60
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl Headlight
+Ka  0.00 0.00 0.00
+Kd  0.00 0.00 0.00
+Ks  0.00 0.00 0.00
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl darkRubber1
+Ka  0.20 0.20 0.20
+Kd  0.20 0.20 0.20
+Ks  0.10 0.10 0.10
+d  1.00
+Ns  0.00
+illum 2
+#
+# Multi/Sub Headlight_main_lamp02 done 
+#
+# Multi/Sub Headlight_aux_lamp_mir02 (2) to come 
+#
+newmtl chrome4
+Ka  0.30 0.30 0.30
+Kd  0.30 0.30 0.30
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl chrome1
+Ka  0.60 0.60 0.60
+Kd  0.60 0.60 0.60
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+# Multi/Sub Headlight_aux_lamp_mir02 done 
+#
+newmtl chrome3
+Ka  0.60 0.60 0.60
+Kd  0.60 0.60 0.60
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+# Multi/Sub Headlight_aux_lamp02 (2) to come 
+#
+newmtl chrome1
+Ka  0.60 0.60 0.60
+Kd  0.60 0.60 0.60
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl chrome2
+Ka  0.60 0.60 0.60
+Kd  0.60 0.60 0.60
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+# Multi/Sub Headlight_aux_lamp02 done 
+#
+newmtl chrome2
+Ka  0.60 0.60 0.60
+Kd  0.60 0.60 0.60
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl Glass_Car_povorot
+Ka  0.00 0.00 0.00
+Kd  0.00 0.00 0.00
+Ks  1.00 1.00 1.00
+d  0.20
+Ns  0.00
+illum 2
+#
+# Multi/Sub Headlight_main_lamp03 (4) to come 
+#
+newmtl chrome2
+Ka  0.60 0.60 0.60
+Kd  0.60 0.60 0.60
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl chrome3
+Ka  0.60 0.60 0.60
+Kd  0.60 0.60 0.60
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl Headlight
+Ka  0.00 0.00 0.00
+Kd  0.00 0.00 0.00
+Ks  0.00 0.00 0.00
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl darkRubber1
+Ka  0.20 0.20 0.20
+Kd  0.20 0.20 0.20
+Ks  0.10 0.10 0.10
+d  1.00
+Ns  0.00
+illum 2
+#
+# Multi/Sub Headlight_main_lamp03 done 
+#
+# Multi/Sub Headlight_aux_lamp_mir03 (2) to come 
+#
+newmtl chrome4
+Ka  0.30 0.30 0.30
+Kd  0.30 0.30 0.30
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl chrome1
+Ka  0.60 0.60 0.60
+Kd  0.60 0.60 0.60
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+# Multi/Sub Headlight_aux_lamp_mir03 done 
+#
+# Multi/Sub Headlight_aux_lamp03 (2) to come 
+#
+newmtl chrome1
+Ka  0.60 0.60 0.60
+Kd  0.60 0.60 0.60
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl chrome2
+Ka  0.60 0.60 0.60
+Kd  0.60 0.60 0.60
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+# Multi/Sub Headlight_aux_lamp03 done 
+#
+newmtl Rubber1
+Ka  0.10 0.10 0.10
+Kd  0.10 0.10 0.10
+Ks  0.90 0.90 0.90
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl Interior___Seats1
+Ka  1.00 0.00 0.00
+Kd  0.80 0.80 0.80
+Ks  0.10 0.10 0.10
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl Interior___chapelle1
+Ka  0.20 0.10 0.00
+Kd  0.20 0.10 0.00
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  0.00
+illum 2
+#
+# Multi/Sub Object01 (2) to come 
+#
+newmtl Wheel_tyre1
+Ka  0.10 0.10 0.10
+Kd  0.10 0.10 0.10
+Ks  0.10 0.10 0.10
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl Wheel_brand1
+Ka  0.10 0.10 0.10
+Kd  0.10 0.10 0.10
+Ks  0.10 0.10 0.10
+d  1.00
+Ns  0.00
+illum 2
+#
+# Multi/Sub Object01 done 
+#
+# Multi/Sub Object02 (2) to come 
+#
+newmtl Wheel_tyre1
+Ka  0.10 0.10 0.10
+Kd  0.10 0.10 0.10
+Ks  0.10 0.10 0.10
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl Wheel_brand1
+Ka  0.10 0.10 0.10
+Kd  0.10 0.10 0.10
+Ks  0.10 0.10 0.10
+d  1.00
+Ns  0.00
+illum 2
+#
+# Multi/Sub Object02 done 
+#
+# Multi/Sub Object03 (2) to come 
+#
+newmtl Wheel_tyre1
+Ka  0.10 0.10 0.10
+Kd  0.10 0.10 0.10
+Ks  0.10 0.10 0.10
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl Wheel_brand1
+Ka  0.10 0.10 0.10
+Kd  0.10 0.10 0.10
+Ks  0.10 0.10 0.10
+d  1.00
+Ns  0.00
+illum 2
+#
+# Multi/Sub Object03 done 
+#
+# Multi/Sub Object04 (2) to come 
+#
+newmtl Wheel_tyre1
+Ka  0.10 0.10 0.10
+Kd  0.10 0.10 0.10
+Ks  0.10 0.10 0.10
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl Wheel_brand1
+Ka  0.10 0.10 0.10
+Kd  0.10 0.10 0.10
+Ks  0.10 0.10 0.10
+d  1.00
+Ns  0.00
+illum 2
+#
+# Multi/Sub Object04 done 
+#
+# EOF

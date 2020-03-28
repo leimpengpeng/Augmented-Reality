@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="arDetectMarker.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arDetectMarker2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arGetCode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arGetMarkerInfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arGetTransMat.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arGetTransMat2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arGetTransMat3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arLabeling.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arUtil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gsub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mAlloc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mAllocDup.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mAllocMul.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mDup.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mFree.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mMul.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mPCA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mUnit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="paramChangeSize.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="paramDecomp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="paramDisp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="paramDistortion.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="paramFile.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vAlloc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vFree.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vHouse.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="videoWin32DirectShow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vInnerP.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vTridiag.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fyp_20120510.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DSVL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DSVL_PixelFormatTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gsub.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="param.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="video.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="videoWin32DirectShow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="obj_parse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
